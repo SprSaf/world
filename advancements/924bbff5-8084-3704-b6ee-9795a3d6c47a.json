@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2019-10-28 14:50:10 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-10-08 16:58:32 +0300"
@@ -290,6 +296,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2019-10-08 16:37:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2019-10-28 15:00:12 +0200"
     },
     "done": true
   },
@@ -706,6 +718,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2019-10-28 15:02:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2019-10-09 16:27:24 +0300"
@@ -950,6 +968,7 @@
     "criteria": {
       "wither_skeleton": "2019-10-20 21:35:51 +0300",
       "zombie_villager": "2019-10-13 18:17:28 +0300",
+      "magma_cube": "2019-10-28 15:14:11 +0200",
       "slime": "2019-10-21 01:15:20 +0300",
       "skeleton": "2019-10-08 16:52:10 +0300",
       "husk": "2019-10-24 13:00:59 +0300",
@@ -958,6 +977,7 @@
       "silverfish": "2019-10-20 21:33:01 +0300",
       "witch": "2019-10-23 15:18:05 +0300",
       "spider": "2019-10-08 22:20:28 +0300",
+      "ghast": "2019-10-28 14:54:26 +0200",
       "creeper": "2019-10-09 19:52:53 +0300",
       "enderman": "2019-10-15 23:51:43 +0300"
     },
@@ -978,6 +998,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2019-10-20 21:29:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2019-10-28 14:50:10 +0200"
     },
     "done": true
   },
