@@ -115,7 +115,7 @@
   },
   "minecraft:nether/root": {
     "criteria": {
-      "entered_nether": "2019-10-28 14:50:10 +0200"
+      "entered_nether": "2019-10-28 15:50:10 +0300"
     },
     "done": true
   },
@@ -157,7 +157,7 @@
   },
   "minecraft:recipes/building_blocks/mossy_stonebrick": {
     "criteria": {
-      "has_mossy_cobblestone": "2019-10-27 12:35:44 +0200"
+      "has_mossy_cobblestone": "2019-10-27 13:35:44 +0300"
     },
     "done": true
   },
@@ -301,7 +301,7 @@
   },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
-      "has_glowstone": "2019-10-28 15:00:12 +0200"
+      "has_glowstone": "2019-10-28 16:00:12 +0300"
     },
     "done": true
   },
@@ -538,7 +538,7 @@
   },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
-      "has_mossy_cobblestone": "2019-10-27 12:35:44 +0200"
+      "has_mossy_cobblestone": "2019-10-27 13:35:44 +0300"
     },
     "done": true
   },
@@ -720,7 +720,7 @@
   },
   "minecraft:nether/return_to_sender": {
     "criteria": {
-      "killed_ghast": "2019-10-28 15:02:37 +0200"
+      "killed_ghast": "2019-10-28 16:02:37 +0300"
     },
     "done": true
   },
@@ -968,7 +968,7 @@
     "criteria": {
       "wither_skeleton": "2019-10-20 21:35:51 +0300",
       "zombie_villager": "2019-10-13 18:17:28 +0300",
-      "magma_cube": "2019-10-28 15:14:11 +0200",
+      "magma_cube": "2019-10-28 16:14:11 +0300",
       "slime": "2019-10-21 01:15:20 +0300",
       "skeleton": "2019-10-08 16:52:10 +0300",
       "husk": "2019-10-24 13:00:59 +0300",
@@ -977,7 +977,7 @@
       "silverfish": "2019-10-20 21:33:01 +0300",
       "witch": "2019-10-23 15:18:05 +0300",
       "spider": "2019-10-08 22:20:28 +0300",
-      "ghast": "2019-10-28 14:54:26 +0200",
+      "ghast": "2019-10-28 15:54:26 +0300",
       "creeper": "2019-10-09 19:52:53 +0300",
       "enderman": "2019-10-15 23:51:43 +0300"
     },
@@ -1003,7 +1003,7 @@
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
-      "entered_nether": "2019-10-28 14:50:10 +0200"
+      "entered_nether": "2019-10-28 15:50:10 +0300"
     },
     "done": true
   },
@@ -1220,6 +1220,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2019-10-14 00:02:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2019-10-28 19:31:36 +0300"
     },
     "done": true
   },
@@ -1634,6 +1640,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2019-10-28 19:59:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2019-10-28 19:31:36 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2019-10-10 23:50:18 +0300"
@@ -1685,6 +1703,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2019-10-16 02:04:33 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2019-10-28 19:31:36 +0300"
     },
     "done": true
   },
